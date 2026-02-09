@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "123@yahoo.com",
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "123@gmail.com",
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "email": "345@hotmail.com",
+            "active": true
+        },
+        {
+            "id": 4,
+            "name": "Bob Brown",
+            "email": "345@aol.com",
+            "active": false
+        },
+        {
+            "id": 5,
+            "name": "Charlie Davis",
+            "email": "charlie@blahblah.com",
+            "active": false
+        }
+    ]
+}
