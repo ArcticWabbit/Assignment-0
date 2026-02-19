@@ -3,32 +3,51 @@
         {
             "id": 1,
             "name": "John Doe",
-            "email": "123@yahoo.com",
+            "email": "jdoe@yahoo.com",
             "active": true
         },
         {
             "id": 2,
             "name": "Jane Smith",
-            "email": "123@gmail.com",
+            "email": "jsmith@gmail.com",
             "active": true
         },
         {
             "id": 3,
             "name": "Alice Johnson",
-            "email": "345@hotmail.com",
+            "email": "ajohn@hotmail.com",
             "active": true
         },
         {
             "id": 4,
             "name": "Bob Brown",
-            "email": "345@aol.com",
+            "email": "bb@aol.com",
             "active": false
         },
         {
             "id": 5,
             "name": "Charlie Davis",
-            "email": "charlie@blahblah.com",
+            "email": "charlie@gmail.com",
+            "active": false
+        },
+        {
+            "id": 6,
+            "name": "Lori Melton",
+            "email": "lori@aol.com",
+            "active": false
+        },
+        {
+            "id": 7,
+            "name": "Brett Bates",
+            "email": "bates@hotmail.com",
+            "active": false
+        },
+        {
+            "id": 8,
+            "name": "Cheri Walker",
+            "email": "cwalker@yahoo.com",
             "active": false
         }
     ]
+
 }
