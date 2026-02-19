@@ -34,7 +34,7 @@
             "id": 6,
             "name": "Lori Melton",
             "email": "lori@aol.com",
-            "active": false
+            "active": true
         },
         {
             "id": 7,
@@ -46,8 +46,9 @@
             "id": 8,
             "name": "Cheri Walker",
             "email": "cwalker@yahoo.com",
-            "active": false
+            "active": true
         }
     ]
 
 }
+
