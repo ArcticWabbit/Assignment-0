@@ -8,8 +8,8 @@
         },
         {
             "id": 2,
-            "name": "Jane Smith",
-            "email": "jsmith@gmail.com",
+            "name": "Jane Hopper",
+            "email": "eleven@gmail.com",
             "active": true
         },
         {
@@ -21,13 +21,13 @@
         {
             "id": 4,
             "name": "Bob Brown",
-            "email": "bb@aol.com",
+            "email": "bob@aol.com",
             "active": false
         },
         {
             "id": 5,
-            "name": "Charlie Davis",
-            "email": "charlie@gmail.com",
+            "name": "Miles Davis",
+            "email": "mdavis@gmail.com",
             "active": false
         },
         {
@@ -38,17 +38,18 @@
         },
         {
             "id": 7,
-            "name": "Brett Bates",
+            "name": "Patrick Bates",
             "email": "bates@hotmail.com",
             "active": false
         },
         {
             "id": 8,
-            "name": "Cheri Walker",
-            "email": "cwalker@yahoo.com",
+            "name": "John Walker",
+            "email": "jwalker@yahoo.com",
             "active": true
         }
     ]
 
 }
+
 
